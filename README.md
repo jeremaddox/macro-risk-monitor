@@ -9,7 +9,7 @@ instrumentation for deterministic and stochastic stress testing.
 - Pi 5 — Compute / scenario engine
 - Pi 4 — Data storage, validation, persistence
 - Pi Zero 1–4 — Data collectors
-- Pico 1–4 — Physical instrumentation & stress injection
+- Pico W 1–4 — Physical instrumentation & stress injection
 
 ## Instrumentation Tier (Pico Controllers)
 
